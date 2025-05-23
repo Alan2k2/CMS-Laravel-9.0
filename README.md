@@ -1,4 +1,4 @@
-## CMS Laravel 8.0
+## CMS Laravel 9.0
 
 Lara CMS is a Great **CMS Application** built in Laravel & a Great **Starter Kit** for big web applications using `Laravel 9.x`.
 
