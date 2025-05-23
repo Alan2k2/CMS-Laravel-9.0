@@ -1,4 +1,4 @@
-## Lara CMS
+## CMS Laravel 8.0
 
 Lara CMS is a Great **CMS Application** built in Laravel & a Great **Starter Kit** for big web applications using `Laravel 9.x`.
 
@@ -23,7 +23,7 @@ It's an application to minimize your problems while creating a new web applicati
 
 **1. Clone From Github**
 ```bash
-git clone https://github.com/ManiruzzamanAkash/LaraCMS.git
+git clone https://github.com/Alan2k2/CMS-Laravel-8.0.git
 ```
 
 **2. Go to that folder**
